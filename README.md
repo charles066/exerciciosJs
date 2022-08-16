@@ -1,8 +1,1 @@
-# livroreceitas 🥘
-## Meu livro de Receitas 
-### receita de carne vermelha 
-### receita de aves 
-- 1 🐔
-- 2 🍞
-- 3 🐄
-- 4 🐷
+# Execicios JS  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
